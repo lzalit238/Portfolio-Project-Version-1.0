@@ -1,8 +1,8 @@
 // import logo from './logo.svg';
-import './App.scss';
-import { Nav } from './Components/Nav.js'
-import { Home } from './Components/Home.js'
-import {About} from './Components/About.js'
+// import './App.scss';
+import { Nav } from './Components/Nav.jsx'
+import { Home } from './Components/Home.jsx'
+import {About} from './Components/About.jsx'
 import React from "react";
 import {
   BrowserRouter as Router,
